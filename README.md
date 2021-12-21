@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fedelisci
 - 👀 I’m interested in Otters 🦦
 - 🌱 I’m currently learning nothing.
-- 💞️ I’m looking to collaborate on Santa Claus
+- 💞️ I’m looking to collaborate with Santa Claus
 
 
 <!---
